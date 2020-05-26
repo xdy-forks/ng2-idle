@@ -45,3 +45,4 @@ lerna*.log
 # System Files
 .DS_Store
 Thumbs.db
+/ng2-idle.iml
