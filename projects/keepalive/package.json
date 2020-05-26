@@ -1,5 +1,5 @@
 {
-  "name": "@ng-idle/keepalive",
+  "name": "@ng-idle-fork/keepalive",
   "version": "9.0.0-beta.1",
   "description": "Module that works with @ng-idle/core to keep a user session alive while user is active.",
   "repository": {
