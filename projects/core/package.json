@@ -25,5 +25,13 @@
   "peerDependencies": {
     "@angular/common": "^9.0.0",
     "@angular/core": "^9.0.0"
+  },
+  "dependencies": {
+    "@angular/cli": "^9.1.7",
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "rxjs": "^6.5.5",
+    "tslib": "^1.13.0",
+    "zone.js": "^0.10.3"
   }
 }
